@@ -6,3 +6,6 @@ grammarChecker
 rockPaperScissors
 
 trainingDays
+
+whaleTalk
+
