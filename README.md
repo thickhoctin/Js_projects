@@ -2,4 +2,7 @@
 Learning Js with Projects
 
 grammarChecker
+
 rockPaperScissors
+
+trainingDays
