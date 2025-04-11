@@ -12,3 +12,5 @@ whaleTalk
 buildALib
 
 creditCardChecker
+
+pianoKeys
