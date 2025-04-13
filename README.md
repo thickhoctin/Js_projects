@@ -9,3 +9,10 @@ trainingDays
 
 whaleTalk
 
+buildALib
+
+creditCardChecker
+
+pianoKeys
+
+formAStory.html
