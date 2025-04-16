@@ -24,6 +24,7 @@ film - finder
 - filmFinder.js
 - style.css
 - index.html
+- readme.md
 
   
 
